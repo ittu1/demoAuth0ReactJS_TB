@@ -11,14 +11,22 @@ login button (components)
 logout button (components)
 Auth0 widget + social sign-in
 
-
-
 added extensions used:
 userlinking for social profiles 
 
 added rules in Auth0:
 email verification for sign-on (forced)
 welcome email 
+
+
+
+
+
+
+
+
+
+
 
 __________________________________________
 
