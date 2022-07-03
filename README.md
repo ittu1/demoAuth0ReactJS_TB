@@ -30,6 +30,10 @@ REACT_APP_AUTH0_CLIENT_ID=Domain
 
 These two keys are found in the 'settings' section of the Auth0 app 
 
+5) In the Auth0 UI, navigate to Auth Pipeline > Rules and add:
+>>Add country to user profile
+>>Force email verification
+
 
 
 __________________________________________
