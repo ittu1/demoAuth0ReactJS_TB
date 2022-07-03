@@ -6,6 +6,18 @@ Remember to install the needed dependencies - use npm install
 
 This sample was derived from the Auth0 React SDK Quickstart which can be found here https://auth0.com/docs/quickstart/spa/react
 
+SPA includes:
+login button (components)
+logout button (components)
+
+
+
+added extensions used:
+userlinking for social profiles 
+
+added rules:
+email verification for sign-on (forced)
+welcome email 
 
 __________________________________________
 
