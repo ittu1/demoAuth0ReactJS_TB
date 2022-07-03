@@ -9,17 +9,20 @@ This sample was derived from the Auth0 React SDK Quickstart which can be found h
 SPA includes:
 login button (components)
 logout button (components)
+Auth0 widget + social sign-in
 
 
 
 added extensions used:
 userlinking for social profiles 
 
-added rules:
+added rules in Auth0:
 email verification for sign-on (forced)
 welcome email 
 
 __________________________________________
+
+#More about create react-app 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
