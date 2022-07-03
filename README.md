@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Auth0 React SDK Sample Application
+
+This is a sample app showing how to integrate Auth0 React SDK into a SPA using the create-react-app.
+
+Remember to install the needed dependencies - use npm install
+
+This sample was derived from the Auth0 React SDK Quickstart which can be found here https://auth0.com/docs/quickstart/spa/react
+
+
+__________________________________________
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
